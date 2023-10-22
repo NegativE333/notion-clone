@@ -10,3 +10,5 @@ const PublicLayout = ({
         </div>
     )
 }
+
+export default PublicLayout;
